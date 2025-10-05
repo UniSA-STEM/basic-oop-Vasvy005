@@ -10,7 +10,7 @@ This is my own work as defined by the University's Academic Misconduct Policy.
 """
 
 import random
-from asset import Asset
+from Asset import Asset
 
 class Rig:
     def __init__(self, name: str):
