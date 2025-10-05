@@ -9,9 +9,9 @@ Username: VASVY005
 This is my own work as defined by the University's Academic Misconduct Policy.
 """
 
-from hacker import Hacker
-from rig import Rig
-from asset import Asset
+from Hacker import Hacker
+from Rig import Rig
+from Asset import Asset
 
 def demo():
     alice = Hacker("Alice")
